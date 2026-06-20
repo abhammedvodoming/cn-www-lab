@@ -1,2 +1,14 @@
 # cn-www-lab
-HTML page archive and documentation
+
+公开页面文件归档
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 访问说明
+
+如果启用了 GitHub Pages，页面可通过对应 Pages 地址访问。
